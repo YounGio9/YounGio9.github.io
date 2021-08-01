@@ -86,7 +86,7 @@ a:hover{
     right: 0px;
     top: 0px;
     width: 1000px;
-    height: 650px;
+    height: 300px;
     border: 1px solid black;
     overflow: auto;
     
@@ -112,7 +112,7 @@ a:hover{
     color: white;
     font-size: 20px;
   
-    margin-top: 200px;
+    margin-top:400px;
 }
 @media all and (max-device-width: 480px)
 {
