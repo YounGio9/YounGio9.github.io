@@ -122,7 +122,7 @@ a:hover{
 {
     .prem{
     height: 1200px;
-    width: 250px;
+    width: 200px;
     background-color: black;
     position: absolute;
     z-index: 2;
@@ -131,7 +131,7 @@ a:hover{
     .sec{
     
     height: 1200px;
-    width:300px;
+    width:280px;
     background-color: black;
     position: absolute;
     z-index: 1;
