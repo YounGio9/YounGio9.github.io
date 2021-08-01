@@ -1,7 +1,7 @@
 
 .prem{
     height: 1250px;
-    width: 300px;
+    width: 500px;
     background-color: black;
     position: absolute;
     left:-50px;
@@ -23,7 +23,7 @@ left: 200px;
 .sec{
     
     height: 1250px;
-    width: 500px;
+    width: 860px;
     background-color: black;
     position: absolute;
      left:-50px;
@@ -43,11 +43,11 @@ left: 420px;
 p
 {
     color: red;
-    font-size: 300px;
+    font-size: 250px;
      text-shadow: 0px 0px 40px red;
     font-style: italic;
    position: absolute;
-left: 760px;    
+left: 520px;    
    top: 60px;
 }
 .reseau 
