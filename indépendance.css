@@ -126,10 +126,12 @@ em{
 left: 196px;    
    top: 320px;
     display: inline-block;
+    text-shadow:0px 0px 3px green,
+        0px 0px 6px yellow,
+        0px 0px 9px 15px red ;
+        
 }
-.happy{
-     display: inline-block;
-}
+
     
 }
 }
