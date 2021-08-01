@@ -1,7 +1,7 @@
 
 .prem{
     height: 1250px;
-    width: 500px;
+    width: 350px;
     background-color: black;
     position: absolute;
     left:-50px;
@@ -15,15 +15,15 @@
     font-style: italic;
     color: green;
    position: absolute;
-left: 200px;    
-   top: 60px;
+left: 190px;    
+   top: 100px;
    text-shadow: 0px 0px 40px green;
  
 }
 .sec{
     
     height: 1250px;
-    width: 860px;
+    width: 980px;
     background-color: black;
     position: absolute;
      left:-50px;
@@ -38,7 +38,7 @@ left: 200px;
     color: yellow;
    position: absolute;
 left: 420px;    
-   top: 60px;
+   top: 120px;
 }
 p
 {
@@ -48,7 +48,7 @@ p
     font-style: italic;
    position: absolute;
 left: 520px;    
-   top: 60px;
+   top: 120px;
 }
 .reseau 
 {
@@ -100,7 +100,7 @@ a:hover{
     height: 40px;
     position: absolute;
     right: 3px;
-    top: 5px;
+    top: 10px;
     float: right;
     margin-top: -19px;
 }
@@ -109,7 +109,7 @@ a:hover{
     font-size: 20px;
     position: absolute;
     right: 0px;
-    top: 0px;
+    top: 20px;
 }
 .essou{
     clear: both;
