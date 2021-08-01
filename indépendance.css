@@ -4,6 +4,8 @@
     width: 600px;
     background-color: black;
     position: absolute;
+    left:0px;
+    top:0px;
     z-index: 2;
     box-shadow: 0px 0px 17px grey;
    
@@ -24,6 +26,8 @@ left: 430px;
     width: 1510px;
     background-color: black;
     position: absolute;
+     left:0px;
+    top:0px;
     z-index: 1;
  
 }
