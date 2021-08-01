@@ -135,6 +135,23 @@ a:hover{
     background-color: black;
     position: absolute;
     z-index: 1;
- 
 }
+    #pre{
+    font-size: 150px;
+    font-style: italic;
+    color: green;
+   position: absolute;
+left: 430px;    
+   top: 60px;
+   text-shadow: 0px 0px 40px green;
 }
+    #sec{
+    font-size: 150px;
+    font-style: italic;
+    text-shadow: 0px 0px 40px yellow;
+    color: yellow;
+   position: absolute;
+left: 620px;    
+        top: 60px;
+    }
+    }
