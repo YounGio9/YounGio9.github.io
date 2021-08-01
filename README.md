@@ -1,5 +1,4 @@
-<!doctype html>
-<html>
+<html lang="fr">
     <head>
         <meta charset="utf-8">
         <title>Bonne fete de l'independance</title>
