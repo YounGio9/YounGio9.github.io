@@ -1,7 +1,4 @@
-/*body{
-    background: url('Talon.png') fixed no-repeat; 
-    
-}*/
+
 .prem{
     height: 1250px;
     width: 600px;
@@ -89,7 +86,7 @@ a:hover{
     right: 0px;
     top: 0px;
     width: 1000px;
-    height: 400px;
+    height: 600px;
     border: 1px solid black;
     overflow: auto;
     
