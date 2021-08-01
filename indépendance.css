@@ -1,21 +1,21 @@
 
 .prem{
     height: 1250px;
-    width: 600px;
+    width: 300px;
     background-color: black;
     position: absolute;
-    left:-100px;
-    top:20px;
+    left:-50px;
+    top:-10px;
     z-index: 2;
     box-shadow: 0px 0px 17px grey;
    
 }
 #pre{
-    font-size: 300px;
+    font-size: 250px;
     font-style: italic;
     color: green;
    position: absolute;
-left: 430px;    
+left: 200px;    
    top: 60px;
    text-shadow: 0px 0px 40px green;
  
@@ -23,21 +23,21 @@ left: 430px;
 .sec{
     
     height: 1250px;
-    width: 1510px;
+    width: 500px;
     background-color: black;
     position: absolute;
-     left:-100px;
-    top:20px;
+     left:-50px;
+    top:-10px;
     z-index: 1;
  
 }
 #sec{
-    font-size: 300px;
+    font-size: 250px;
     font-style: italic;
     text-shadow: 0px 0px 40px yellow;
     color: yellow;
    position: absolute;
-left: 620px;    
+left: 420px;    
    top: 60px;
 }
 p
@@ -100,7 +100,7 @@ a:hover{
     height: 40px;
     position: absolute;
     right: 3px;
-    top: 0px;
+    top: 5px;
     float: right;
     margin-top: -19px;
 }
@@ -115,7 +115,8 @@ a:hover{
     clear: both;
     color: white;
     font-size: 20px;
-  
-    margin-top:400px;
+    position: absolute;
+    right: 0px;
+    top: 300px;
 }
 }
